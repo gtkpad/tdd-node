@@ -1,0 +1,23 @@
+[
+  {
+    "id": "7e4f0196-a8ca-4170-a5a9-0c582f2604d3",
+    "name": "Ranchero",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "05e0cd24-b010-48bd-8cb1-98a7159e27e7",
+    "name": "CTS",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "13efd4f7-7bf2-4265-acaf-61d1040be0c1",
+    "name": "1",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  }
+]
